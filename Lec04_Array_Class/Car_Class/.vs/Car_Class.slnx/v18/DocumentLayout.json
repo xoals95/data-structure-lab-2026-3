@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mins1\\Desktop\\\uB300\uD559\\\uACFC\uC81C\\data-structure-lab-2026-3\\data-structure-lab-2026-3\\Lec04_Array_Class\\Car_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23780DBE-5BD8-447B-840B-62277E6D2C0A}|Car_Class\\Car_Class.vcxproj|C:\\Users\\mins1\\Desktop\\\uB300\uD559\\\uACFC\uC81C\\data-structure-lab-2026-3\\data-structure-lab-2026-3\\Lec04_Array_Class\\Car_Class\\Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23780DBE-5BD8-447B-840B-62277E6D2C0A}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mins1\\Desktop\\\uB300\uD559\\\uACFC\uC81C\\data-structure-lab-2026-3\\data-structure-lab-2026-3\\Lec04_Array_Class\\Car_Class\\Car_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Car_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\mins1\\Desktop\\\uB300\uD559\\\uACFC\uC81C\\data-structure-lab-2026-3\\data-structure-lab-2026-3\\Lec04_Array_Class\\Car_Class\\Car_Class\\main.cpp",
+              "RelativeToolTip": "Car_Class\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:49:37.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
